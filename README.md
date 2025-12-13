@@ -9,6 +9,6 @@
 ---
 
 # Other Topic
-- [] Finished Paper Title  https://arxiv.org/abs/2504.16736
+- [ ] Finished Paper Title  https://arxiv.org/abs/2504.16736
 
 ---
