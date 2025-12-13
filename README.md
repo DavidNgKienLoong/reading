@@ -1,15 +1,14 @@
-# arxiv-reading-list
 
-A personal checklist of arXiv papers.
+# Table of Contents
 
 ---
 
-## AI Agent
+# AI Agent
 - [x] A Survey of AI Agent Protocols  [https://arxiv.org/abs/2403.01234](https://arxiv.org/abs/2504.16736)
 
 ---
 
-## Other Topic
+# Other Topic
 - [] Finished Paper Title  [https://arxiv.org/abs/2403.01234](https://arxiv.org/abs/2504.16736)
 
 ---
