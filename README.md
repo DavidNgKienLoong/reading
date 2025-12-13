@@ -7,6 +7,15 @@
 
 ## AI Agent
 - [x] A Survey of AI Agent Protocols  https://arxiv.org/abs/2504.16736
+- [ ] Title  Link
+- [ ] Title  Link
+- [ ] Title  Link
+- [ ] Title  Link
+- [ ] Title  Link
 
 ## Multimodal Learning
-- [ ] Title  https://arxiv.org/abs/2504.16736
+- [ ] Title  Link
+- [ ] Title  Link
+- [ ] Title  Link
+- [ ] Title  Link
+- [ ] Title  Link
