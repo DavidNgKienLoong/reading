@@ -1,23 +1,18 @@
 
 Start tracking on 14 December 2025.
 
-# Table of Contents
-- [AI Agent](#ai-agent)
-- [Multimodal Learning](#multimodal-learning)
+# Reading list (navigation)
+
+- [AI Agent](./ai_agent.md)
+- [Multimodal Learning](./multimodal_learning.md)
 
 ---
 
-## AI Agent
-- [x] A Survey of AI Agent Protocols  https://arxiv.org/abs/2504.16736
-- [x] COLA: A Scalable Multi-Agent Framework For Windows UI Task Automation https://arxiv.org/abs/2503.09263
-- [ ] Title  Link
-- [ ] Title  Link
-- [ ] Title  Link
-- [ ] Title  Link
+This repository's `README.md` is now a navigation hub. The reading/checklist items have been moved into their own files so each topic can grow independently.
 
-## Multimodal Learning
-- [ ] Title  Link
-- [ ] Title  Link
-- [ ] Title  Link
-- [ ] Title  Link
-- [ ] Title  Link
+Files:
+
+- `ai_agent.md` — AI Agent reading list and checklist
+- `multimodal_learning.md` — Multimodal Learning reading list and checklist
+
+Contributions: add entries directly to the topic file and keep the `README.md` for top-level navigation.
